@@ -1,6 +1,9 @@
-
+Vlad
 hello git	123
 
 It`s first line
+<<<<<<< HEAD
 Add new info
 Some things change)
+=======
+>>>>>>> parent of 1ada46b... Test status

@@ -1,2 +1,3 @@
 # git_simple
-*Commit
+
+## Change for the lesson
